@@ -1,5 +1,5 @@
 {
-  "EmployeeTimeSheet": {
+  "Post": {
     "name": "string",
     "lastName": "string",
     "position": "string",

@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "EmployeeTimeSheet": {
     "title": "string",
     "views": "int",
     "published": "boolean",

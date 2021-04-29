@@ -1,16 +1,7 @@
-{
-  "employeesTimeSheet":
-[
+{ "posts" :[
   {
-    "key": "1",
-        "doubleTime" : "20.00 hrs",
-        "add1" : "27987",
-        "add2" : "$120.00",
-        "lastName" : "Smith",
-        "name" : "jhon",
-        "overTime" : "20.00 hrs",
-        "position" : "Wood Trimmer",
-        "regularTime" : "80.00 hrs"
-}
-]
-}
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  }}

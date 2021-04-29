@@ -1,10 +1,10 @@
 {
   "EmployeesTimeSheet": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "string"
+    "name": "string",
+    "lastName": "int",
+    "position": "boolean",
+    "regularTime": "date",
+    "add1": "string"
   },
   "Comment": {
     "body": "string",

@@ -4,7 +4,11 @@
     "lastName": "int",
     "position": "boolean",
     "regularTime": "date",
-    "add1": "string"
+    "add1": "string",
+    "add2": "string",
+    "doubleTime": "string",
+    "overTime": "string"
+
   },
   "Comment": {
     "body": "string",

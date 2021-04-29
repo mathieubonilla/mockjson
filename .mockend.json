@@ -3,11 +3,11 @@
     "name": "string",
     "lastName": "string",
     "position": "string",
-    "regularTime": "string",
+    "regularTime": "int",
     "add1": "string",
     "add2": "string",
-    "doubleTime": "string",
-    "overTime": "string"
+    "doubleTime": "int",
+    "overTime": "int"
 
   },
   "Comment": {

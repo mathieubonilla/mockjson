@@ -1,9 +1,9 @@
 {
   "EmployeesTimeSheet": {
     "name": "string",
-    "lastName": "int",
-    "position": "boolean",
-    "regularTime": "date",
+    "lastName": "string",
+    "position": "string",
+    "regularTime": "string",
     "add1": "string",
     "add2": "string",
     "doubleTime": "string",

@@ -11,17 +11,6 @@
         "overTime" : "20.00 hrs",
         "position" : "Wood Trimmer",
         "regularTime" : "80.00 hrs"
-},
-    {
-    "key": "2",
-        "doubleTime" : "20.00 hrs",
-        "add1" : "27987",
-        "add2" : "$120.00",
-        "lastName" : "Smith",
-        "name" : "jhon",
-        "overTime" : "20.00 hrs",
-        "position" : "Wood Trimmer",
-        "regularTime" : "80.00 hrs"
 }
 ]
 }

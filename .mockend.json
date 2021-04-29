@@ -1,13 +1,12 @@
 {
   "EmployeeTimeSheet": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+    "name": "string",
+    "lastName": "string",
+    "position": "string",
+    "regularTime": "string",
+    "add1": "string",
+    "add2": "string",
+    "doubleTime": "string",
+    "overTime": "string",
   }
 }

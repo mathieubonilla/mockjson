@@ -8,7 +8,7 @@
     "perDiem": "int",
     "doubleTime": "int",
     "overTime": "int",
-    "belongsToUnion: "boolean",
+    "belongsToUnion": "boolean",
   },
   "Comment": {
     "body": "string",

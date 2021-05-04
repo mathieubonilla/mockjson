@@ -5,7 +5,7 @@
     "position": "string",
     "regularTime": "int",
     "add1": "string",
-    "add2": "string",
+    "perDiem": "int",
     "doubleTime": "int",
     "overTime": "int"
 

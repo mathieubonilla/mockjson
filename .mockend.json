@@ -13,5 +13,10 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+    "job": {
+    "jobName": "string",
+    "jobNumber": "string",
+    "suggestedPerDiem": "string"
   }
 }

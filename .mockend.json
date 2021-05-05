@@ -22,7 +22,6 @@
     "Position": {
     "billingCode": "string",
     "rate": "int",
-    "hasUnion": "boolean",
     "hasUnion": "boolean"
   }
 }

@@ -14,7 +14,7 @@
     "body": "string",
     "post": "Post"
   },
-    "job": {
+    "Job": {
     "jobName": "string",
     "jobNumber": "string",
     "suggestedPerDiem": "string"

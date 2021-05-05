@@ -18,5 +18,11 @@
     "jobName": "string",
     "jobNumber": "string",
     "suggestedPerDiem": "string"
+  },
+    "Position": {
+    "billingCode": "string",
+    "rate": "int",
+    "hasUnion": "boolean",
+    "hasUnion": "boolean"
   }
 }

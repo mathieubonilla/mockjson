@@ -23,5 +23,13 @@
     "billingCode": "string",
     "rate": "int",
     "hasUnion": "boolean"
-  }
+  },
+  "Employee": {
+    "name": "string",
+    "lastName": "string",
+    "position": "string",
+    "rate": "int",
+    "perDiem": "int",
+    "belongsToUnion": "boolean"
+  },
 }

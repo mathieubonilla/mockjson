@@ -6,6 +6,7 @@
     "regularTime": "int",
     "add1": "string",
     "perDiem": "int",
+    "rate": "int",
     "doubleTime": "int",
     "overTime": "int",
     "belongsToUnion": "boolean"

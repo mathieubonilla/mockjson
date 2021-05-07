@@ -21,6 +21,7 @@
     "suggestedPerDiem": "string"
   },
     "Position": {
+     "name": "string"
     "billingCode": "string",
     "rate": "int",
     "hasUnion": "boolean"

@@ -15,13 +15,13 @@
     "body": "string",
     "post": "Post"
   },
-    "Job": {
+  "Job": {
     "jobName": "string",
     "jobNumber": "string",
     "suggestedPerDiem": "string"
   },
-    "Position": {
-     "name": "string"
+   "Position": {
+    "name": "string",
     "billingCode": "string",
     "rate": "int",
     "hasUnion": "boolean"

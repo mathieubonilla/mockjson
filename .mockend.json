@@ -29,7 +29,7 @@
     "created": "string",
     "createdBy": "string",
     "modified": "string",
-    "modifiedBy": "string",
+    "modifiedBy": "string"
   },
   "Employee": {
     "name": "string",

@@ -39,5 +39,13 @@
     "perDiem": "boolean",
     "position": "Position",
     "active": "boolean"
+  },
+  "TimeSheetEmployeeDashboard": {
+    "employee": "Employee";
+    "position": "Position";
+    "regularTime": "int";
+    "overTime": "int";
+    "doubleTime": "int";
+    "perDiem": "int";
   }
 }

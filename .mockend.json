@@ -34,7 +34,7 @@
     "lastName": "string",
     "union": "boolean",
     "perDiem": "boolean",
-    "position": "Position[]
+    "position": "Position[],
     "active": "boolean"
   },
    "Position": {

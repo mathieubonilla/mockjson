@@ -21,8 +21,8 @@
     "suggestedPerDiem": "string"
   },
   "TimeSheetEmployeeDashboard": {
-    "employee": "Employee",
-    "position": "Position",
+    "employee": "Employee{}",
+    "position": "Position{}",
     "regularTime": "int",
     "overTime": "int",
     "doubleTime": "int",
@@ -34,7 +34,7 @@
     "lastName": "string",
     "union": "boolean",
     "perDiem": "boolean",
-    "position": "Position",
+    "position": "Position{}",
     "active": "boolean"
   },
    "Position": {

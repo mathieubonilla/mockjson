@@ -34,8 +34,8 @@
     "lastName": "string",
     "union": "boolean",
     "perDiem": "boolean",
-    "position": "Position[]",
-    "active": "boolean"
+    "active": "boolean",
+    "position": "Position[]"
   },
    "Position": {
     "id": "int",

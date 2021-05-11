@@ -29,7 +29,6 @@
     "perDiem": "int"
   },
   "Employee": {
-    "id": "string",
     "name": "string",
     "lastName": "string",
     "union": "boolean",
@@ -38,7 +37,6 @@
     "position": "Position[]"
   },
    "Position": {
-    "id": "int",
     "name": "string",
     "rate": "string"
   }

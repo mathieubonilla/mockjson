@@ -20,16 +20,13 @@
     "jobNumber": "string",
     "suggestedPerDiem": "string"
   },
-   "Position": {
-    "id": "int",
-    "name": "string",
-    "billingCode": "string",
-    "rate": "string",
-    "union": "boolean",
-    "created": "string",
-    "createdBy": "string",
-    "modified": "string",
-    "modifiedBy": "string"
+  "TimeSheetEmployeeDashboard": {
+    "employee": "Employee",
+    "position": "Position",
+    "regularTime": "int",
+    "overTime": "int",
+    "doubleTime": "int",
+    "perDiem": "int"
   },
   "Employee": {
     "id": "string",
@@ -40,12 +37,15 @@
     "position": "Position",
     "active": "boolean"
   },
-  "TimeSheetEmployeeDashboard": {
-    "employee": "Employee",
-    "position": "Position",
-    "regularTime": "int",
-    "overTime": "int",
-    "doubleTime": "int",
-    "perDiem": "int"
+   "Position": {
+    "id": "int",
+    "name": "string",
+    "billingCode": "string",
+    "rate": "string",
+    "union": "boolean",
+    "created": "string",
+    "createdBy": "string",
+    "modified": "string",
+    "modifiedBy": "string"
   }
 }

@@ -21,8 +21,10 @@
     "suggestedPerDiem": "string"
   },
   "TimeSheetEmployeeDashboard": {
-    "employee": "Employee[]",
-    "position": "Position[]",
+    "employeeId": "int"
+    "name": "string",
+    "lastName": "string",
+    "positionName": "string",
     "regularTime": "int",
     "overTime": "int",
     "doubleTime": "int",

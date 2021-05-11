@@ -32,11 +32,12 @@
     "modifiedBy": "string"
   },
   "Employee": {
-    "name": "string",
-    "lastName": "string",
-    "position": "string",
-    "rate": "int",
-    "perDiem": "int",
-    "belongsToUnion": "boolean"
+    "id": "string";
+    "name": "string";
+    "lastName": "string";
+    "union": "boolean";
+    "perDiem": "boolean";
+    "position": "Position";
+    "active": "boolean";
   }
 }

@@ -21,7 +21,7 @@
     "suggestedPerDiem": "string"
   },
   "TimeSheetEmployeeDashboard": {
-    "employeeId": "int"
+    "employeeId": "int",
     "name": "string",
     "lastName": "string",
     "positionName": "string",

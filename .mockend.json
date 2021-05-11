@@ -40,12 +40,6 @@
    "Position": {
     "id": "int",
     "name": "string",
-    "billingCode": "string",
-    "rate": "string",
-    "union": "boolean",
-    "created": "string",
-    "createdBy": "string",
-    "modified": "string",
-    "modifiedBy": "string"
+    "rate": "string"
   }
 }

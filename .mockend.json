@@ -12,7 +12,7 @@
     }
   },
  "Course": {
-    "name": { "regexp": "Curso [A-Z][a-z]{5,10}" }
+    "name": { "regexp": "Curso [A-Z][a-z]{5,10}" },
     "companyType": {  "string": [
       "servicio_no_mantenimiento",
       "asesorias",

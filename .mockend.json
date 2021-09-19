@@ -13,7 +13,10 @@
   },
  "Course": {
     "companyType": { "string": {} },
-    "name": { "string": {} },
+    "name": {  "string": [
+      "Thor",
+      "Loki"
+    ] },
     "frequency": { "int": { "min": 30, "max": 120 } }
   }
 }

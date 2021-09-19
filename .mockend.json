@@ -18,18 +18,23 @@
 				"capacitaciones"
 			]
 		},
-		"ccssDate": {
-			"dateTime": {
-				"min": "2021-01-01T00:00:00Z",
-				"max": "2022-12-31T23:59:59Z"
+		"certifications": [{
+				"ccssDate": {
+					"dateTime": {
+						"min": "2021-01-01T00:00:00Z",
+						"max": "2022-12-31T23:59:59Z"
+					}
+				}
+			},
+			{
+				"insDate": {
+					"dateTime": {
+						"min": "2021-01-01T00:00:00Z",
+						"max": "2022-12-31T23:59:59Z"
+					}
+				}
 			}
-		},
-		"insDate": {
-			"dateTime": {
-				"min": "2021-01-01T00:00:00Z",
-				"max": "2022-12-31T23:59:59Z"
-			}
-		}
+		]
 	},
 	"Course": {
 		"name": {

@@ -1,6 +1,14 @@
 {
+  "Post": {
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
   "Comment": {
-    "body": "string",
-    "post": "string"
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
   }
 }

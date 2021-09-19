@@ -14,6 +14,6 @@
  "Course": {
     "companyType": { "string": {} },
     "name": { "string": {} },
-    "frequency": { "int": {} }
+    "frequency": { "int": { "min": 30, "max": 120 } }
   }
 }

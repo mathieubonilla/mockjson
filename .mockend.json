@@ -1,6 +1,6 @@
 {
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "string"
   }
 }

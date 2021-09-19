@@ -6,7 +6,7 @@
     }
   },
   "Company": {
-    "body": { "string": {} },
+    "name": { "regexp": "Empresa [A-Z][a-z]{5,10}" },
     "post": {
       "belongsTo": "Post"
     }

@@ -10,5 +10,10 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+ "Course": {
+    "companyType": { "string": {} },
+    "name": { "string": {} },
+    "frequency": { "string": {} }
   }
 }

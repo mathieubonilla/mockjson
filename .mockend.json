@@ -12,10 +12,11 @@
     }
   },
  "Course": {
-    "companyType": { "string": {} },
-    "name": {  "string": [
-      "Thor",
-      "Loki"
+    "name": { "string": {} },
+    "companyType": {  "string": [
+      "servicio_no_mantenimiento",
+      "asesorias",
+      "capacitaciones"
     ] },
     "frequency": { "int": { "min": 30, "max": 120 } }
   }

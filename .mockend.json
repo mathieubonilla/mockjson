@@ -11,7 +11,8 @@
       "servicio_no_mantenimiento",
       "asesorias",
       "capacitaciones"
-    ]},
+    ]}
+  },
  "Course": {
     "name": { "regexp": "Curso [A-Z][a-z]{5,10}" },
     "companyType": {  "string": [

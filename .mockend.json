@@ -5,14 +5,11 @@
       "hasMany": "Comment"
     }
   },
-   "company": {
-    "name": { "regexp": "Empresa [A-Z][a-z]{5,10}" },
-    "companyType": {  "string": [
-      "servicio_no_mantenimiento",
-      "asesorias",
-      "capacitaciones"
-    ] },
-    "frequency": { "int": { "min": 30, "max": 120 } }
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
   },
  "Course": {
     "name": { "regexp": "Curso [A-Z][a-z]{5,10}" },

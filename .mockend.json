@@ -7,9 +7,11 @@
   },
   "Company": {
     "name": { "regexp": "Empresa [A-Z][a-z]{5,10}" },
-    "post": {
-      "belongsTo": "Post"
-    }
+    "companyType": {  "string": [
+      "servicio_no_mantenimiento",
+      "asesorias",
+      "capacitaciones"
+    ] },
   },
  "Course": {
     "name": { "regexp": "Curso [A-Z][a-z]{5,10}" },

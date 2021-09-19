@@ -5,7 +5,7 @@
       "hasMany": "Comment"
     }
   },
-  "Comment": {
+  "Company": {
     "body": { "string": {} },
     "post": {
       "belongsTo": "Post"

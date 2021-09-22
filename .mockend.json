@@ -32,7 +32,7 @@
 		}
 	},
 	"Course": {
-		"id": {
+		"key": {
 			"string": {}
 		},
 		"name": {

@@ -32,6 +32,9 @@
 		}
 	},
 	"Course": {
+		"id": {
+			"string": {}
+		},
 		"name": {
 			"regexp": "Curso [A-Z][a-z]{5,10}"
 		},

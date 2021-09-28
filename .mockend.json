@@ -52,7 +52,7 @@
 			}
 		}
 	},
-	"Course": {
+	"EmployeeCourses": {
 		"key": {
 			"string": {}
 		},

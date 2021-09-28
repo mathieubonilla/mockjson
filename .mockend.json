@@ -43,26 +43,5 @@
 				"max": 120
 			}
 		}
-	},
-	"EmployeeCourses": {
-		"key": {
-			"string": {}
-		},
-		"name": {
-			"regexp": "Curso [A-Z][a-z]{5,10}"
-		},
-		"companyType": {
-			"string": [
-				"servicio_no_mantenimiento",
-				"asesorias",
-				"capacitaciones"
-			]
-		},
-		"frequency": {
-			"int": {
-				"min": 30,
-				"max": 120
-			}
-		}
 	}
 }

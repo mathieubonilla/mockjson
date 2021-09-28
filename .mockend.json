@@ -43,5 +43,32 @@
 				"max": 120
 			}
 		}
+	},
+	"EmpC": {
+		"key": {
+			"string": {}
+		},
+		"name": {
+			"regexp": "Curso [A-Z][a-z]{5,10}"
+		},
+		"companyType": {
+			"string": [
+				"servicio_no_mantenimiento",
+				"asesorias",
+				"capacitaciones"
+			]
+		},
+		"frequency": {
+			"int": {
+				"min": 30,
+				"max": 120
+			}
+		},
+		"takenDate": {
+			"dateTime": {
+				"min": "2021-01-01T00:00:00Z",
+				"max": "2022-12-31T23:59:59Z"
+			}
+		},
 	}
 }

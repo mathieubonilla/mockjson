@@ -45,48 +45,56 @@
 		}
 	},
 	"Asset": {
-	"name": {
-		"string": {}
-	},
-	"brand": {
-		"string": {}
-	},
-	"model": {
-		"string": {}
-	},
-	"Weight": {
-		"string": {}
-	},
-	"cost": {
-		"int": {}
-	},
-	"serialNumber": {
-		"string": {}
-	},
-	"purchaseYear": {
-		"int": {
-			"min": 1900,
-			"max": 2022
+		"name": {
+			"string": {}
+		},
+		"brand": {
+			"string": {}
+		},
+		"model": {
+			"string": {}
+		},
+		"Weight": {
+			"string": {}
+		},
+		"cost": {
+			"int": {
+				"min": 1000000,
+				"max": 10000000
+			}
+		},
+		"serialNumber": {
+			"string": {}
+		},
+		"purchaseYear": {
+			"int": {
+				"min": 1900,
+				"max": 2022
+			}
+		},
+		"category": {
+			"string": {}
+		},
+		"currentLocation": {
+			"string": {}
+		},
+		"photos": {
+			"hasMany": "Photo"
+		},
+		"status": {
+			"string": [
+				"Home",
+				"On The Way",
+				"On Site",
+				"Damaged",
+				"Waiting to be repaired",
+				"Booked"
+			]
 		}
 	},
-	"category": {
-		"string": {}
-	},
-	"currentLocation": {
-		"string": {}
-	},
-	"photos": [{
-		"string": {}
-	}],
-	"status": [{
-		"string": [
-			"Home",
-			"On The Way",
-			"On Site",
-			"Damaged",
-			"Waiting to be repaired",
-			"Booked"
-		]
-	}]
+	"Photo": {
+		"path": {
+			"string": {}
+		}
 	}
 }

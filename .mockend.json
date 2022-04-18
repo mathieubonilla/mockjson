@@ -54,7 +54,7 @@
 		"model": {
 			"loremWord": {}
 		},
-		"Weight": {
+		"weight": {
 			"int": {
 				"min": 100,
 				"max": 10000000

@@ -82,7 +82,10 @@
 			"string": {}
 		},
 		"photos": {
-			"hasMany": "Photo"
+			"string": [
+				"https://images.unsplash.com/photo-1614977645540-7abd88ba8e56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80",
+				"https://media.istockphoto.com/photos/red-white-and-blue-parked-trucks-lined-up-at-a-truck-stop-picture-id1289964653?s=612x612"
+			]
 		},
 		"status": {
 			"string": [

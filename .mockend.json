@@ -46,16 +46,19 @@
 	},
 	"Asset": {
 		"name": {
-			"string": {}
+			"loremWord": {}
 		},
 		"brand": {
-			"string": {}
+			"loremWord": {}
 		},
 		"model": {
-			"string": {}
+			"loremWord": {}
 		},
 		"Weight": {
-			"string": {}
+			"int": {
+				"min": 100,
+				"max": 10000000
+			}
 		},
 		"cost": {
 			"int": {
@@ -73,7 +76,7 @@
 			}
 		},
 		"category": {
-			"string": {}
+			"loremWord": {}
 		},
 		"currentLocation": {
 			"string": {}
